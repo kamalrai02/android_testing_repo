@@ -9,13 +9,13 @@ plugins {
 
 android {
     namespace = "org.opstree.app"
-    compileSdk = 35 // Update to your version
+    compileSdk = 36 // Update to your version
     
     defaultConfig {
         applicationId = "com.buildpiperdocs"
         minSdk = 32 // Update to your version
-        targetSdk = 35 // Update to your version
-        versionCode = 42
+        targetSdk = 36 // Update to your version
+        versionCode = 43
         versionName = "1.0.1"
     }
 	signingConfigs {
